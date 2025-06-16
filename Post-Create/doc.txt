@@ -1,0 +1,5 @@
+1)  client -> send data 
+
+2) validation -> pydantic 
+
+3) json -> add new record 
