@@ -1,3 +1,21 @@
+env : conda activate C:\Users\hp\Desktop\Fast_api\python
+
+How to run :
+
+run command 
+
+
+command prompt
+(C:\Users\hp\Desktop\Fast_api\python) C:\Users\hp\Desktop\Fast_api\insurance_premium>uvicorn model_endpo
+int:app --reload 
+
+open new cmd prompt :
+(C:\Users\hp\Desktop\Fast_api\python) C:\Users\hp\Desktop\Fast_api\insurance_premium>streamlit run westreamlit run web_frontend.py
+
+
+
+
+
 1)  client -> send data 
 
 2) validation -> pydantic 

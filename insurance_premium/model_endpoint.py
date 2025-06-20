@@ -73,6 +73,7 @@ class UserInput(BaseModel):
 ## when cilent send somerhing for prediction 
 ## we use post method 
 
+## API for model
 @app.post('/predict')
 def predict_premium(data: UserInput):
     #single row inside this one dictionary
